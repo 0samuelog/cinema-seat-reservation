@@ -1,4 +1,4 @@
-## 🚀 Como Executar o Projeto - Tutorial Passo a Passo
+## 🚀 Como Executar o Projeto - Tutorial Passo a Passo.
 
 ### 📋 Pré-requisitos
 
