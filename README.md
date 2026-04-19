@@ -1,43 +1,46 @@
-# Sistema de Reserva de Assentos de Cinema
+# Olá, eu sou o [Seu Nome]! 👋
 
-Um aplicativo simples de console em Python para gerenciar reservas de assentos em um cinema.
+### 🛡️ Aspirante a Analista de Cibersegurança | Entusiasta de Red & Blue Team
 
-## Funcionalidades
+Atualmente, estou mergulhando no mundo da Segurança da Informação, com foco em entender tanto as táticas ofensivas quanto as defesas de rede. Sou um entusiasta de Linux e busco constantemente aprimorar minhas habilidades em automação com scripts e análise de vulnerabilidades.
 
-- Exibir assentos disponíveis e ocupados
-- Reservar um assento
-- Cancelar uma reserva
-- Mostrar assentos livres
-- Calcular resumo dos assentos
-- Armazenamento persistente dos dados dos assentos usando JSON
+---
 
-## Instalação
+### 🚀 Sobre Mim
+- 🎓 **Foco Atual:** Estudando fundamentos de Red Team e Blue Team no **TryHackMe**.
+- 💻 **Linguagens:** Python e JavaScript para automação e ferramentas de segurança.
+- 🐧 **OS Preferido:** Kali Linux e sistemas baseados em Debian.
+- 📍 **Localização:** Brasília, Brasil.
 
-1. Certifique-se de ter o Python 3.14+ instalado.
-2. Clone o repositório.
-3. Instale as dependências: `uv sync`
-4. Para desenvolvimento: `uv sync --group dev`
+---
 
-## Como Executar
+### 🛠️ Ferramentas e Tecnologias
 
-Execute o aplicativo: `uv run python main.py`
+#### **Cibersegurança & Redes**
+![Nmap](https://img.shields.io/badge/Nmap-DFE1E5?style=for-the-badge&logo=nmap&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212c42?style=for-the-badge&logo=tryhackme&logoColor=red)
 
-## Testes
+#### **Programação**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-Execute os testes: `uv run pytest`
+---
 
-## Estrutura do Projeto
+### 📂 Meus Projetos em Destaque
+* **[Nome do Projeto]:** Breve descrição de um script Python ou projeto de segurança (ex: "Scanner de portas simples em Python").
+* **[Nome do Projeto]:** Descrição de outro projeto (ex: "Laboratório de rede virtualizada com VMs").
 
-- `main.py`: Código principal do aplicativo com a classe Cinema
-- `tests/`: Testes unitários
-- `seats.json`: Dados persistentes dos assentos (criado automaticamente)
+---
 
-## Tecnologias Utilizadas
+### 📊 Estatísticas do GitHub
+![Estatísticas do GitHub de [SeuUsuario]](https://github-readme-stats.vercel.app/api?username=[SeuUsuario]&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[SeuUsuario]&layout=compact&theme=tokyonight)
 
-- Python 3.14+
-- JSON para persistência de dados
-- Pytest para testes
+---
 
-## Licença
-
-Este projeto é de código aberto. Sinta-se à vontade para contribuir!
+### 📫 Como me encontrar:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](seu-link-aqui)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
